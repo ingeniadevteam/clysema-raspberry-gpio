@@ -1,7 +1,7 @@
 # @clysema/raspberry-gpio
 
-[![npm (scoped)](raspberry-gpio://img.shields.io/npm/v/@clysema/raspberry-gpio.svg)](raspberry-gpio://www.npmjs.com/package/@clysema/raspberry-gpio)
-[![npm bundle size (minified)](raspberry-gpio://img.shields.io/bundlephobia/min/@clysema/raspberry-gpio.svg)](raspberry-gpio://www.npmjs.com/package/@clysema/raspberry-gpio)
+[![npm (scoped)](http://img.shields.io/npm/v/@clysema/raspberry-gpio.svg)](http://www.npmjs.com/package/@clysema/raspberry-gpio)
+[![npm bundle size (minified)](http://img.shields.io/bundlephobia/min/@clysema/raspberry-gpio.svg)](http://www.npmjs.com/package/@clysema/raspberry-gpio)
 
 Simple wrapper for the [onoff](https://www.npmjs.com/package/onoff) package.
 
