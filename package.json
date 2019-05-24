@@ -1,0 +1,24 @@
+{
+  "name": "@clysema/raspberry-gpio",
+  "version": "0.1.0",
+  "description": "[![npm (scoped)](https://img.shields.io/npm/v/@clysema/raspberry-gpio.svg)](https://www.npmjs.com/package/@clysema/raspberry-gpio) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@clysema/raspberry-gpio.svg)](https://www.npmjs.com/package/@clysema/raspberry-gpio)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Víctor Navarro <v.navarro@clysema.com> (https://www.clysema.com)",
+  "license": "MIT",
+  "dependencies": {
+    "joi": "^14.3.1",
+    "onoff": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingeniadevteam/clysema-raspberry-gpio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ingeniadevteam/clysema-raspberry-gpio/issues"
+  },
+  "homepage": "https://github.com/ingeniadevteam/clysema-raspberry-gpio#readme"
+}
