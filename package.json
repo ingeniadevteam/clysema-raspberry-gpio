@@ -1,6 +1,6 @@
 {
   "name": "@clysema/raspberry-gpio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "[![npm (scoped)](https://img.shields.io/npm/v/@clysema/raspberry-gpio.svg)](https://www.npmjs.com/package/@clysema/raspberry-gpio) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@clysema/raspberry-gpio.svg)](https://www.npmjs.com/package/@clysema/raspberry-gpio)",
   "main": "index.js",
   "scripts": {
